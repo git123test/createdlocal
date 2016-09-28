@@ -1,10 +1,1 @@
-12345
-
-Added in server - 456l
-
-<<<<<<< HEAD
-
-New change - 12345678890; local
-=======
-Latest version changes - server;
->>>>>>> origin/master
+Test code added by server
